@@ -15,9 +15,9 @@ Building software to understand how it works.
 
 | Repository        | Learning Tracks                                                                                                                                                                                                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🧩 **LeetCode**   | [Random Questions](https://github.com/hemant-ingle/leetcode/blob/main/Random/questions.md) • [LeetCode 75](https://github.com/hemant-ingle/leetcode/blob/main/Leetcode%2075/questions.md) • [SQL 50](https://github.com/hemant-ingle/leetcode/blob/main/SQL%2050/questions.md) |
-| ⚔️ **Codeforces** | [Questions & Solutions](https://github.com/hemant-ingle/codeforces)                                                                                                                                                                                                            |
-| 📚 **CSES**       | [Problem Set & Solutions](https://github.com/hemant-ingle/cses/blob/main/questions.md)                                                                                                                                                                                         |
+| 🧩 **[LeetCode](https://leetcode.com/u/hemant_ingle/)**   | [Random Questions](https://github.com/hemant-ingle/leetcode/blob/main/Random/questions.md) • [LeetCode 75](https://github.com/hemant-ingle/leetcode/blob/main/Leetcode%2075/questions.md) • [SQL 50](https://github.com/hemant-ingle/leetcode/blob/main/SQL%2050/questions.md) |
+| ⚔️ **[Codeforces](https://codeforces.com/profile/hemant_ingle)** | [Questions & Solutions](https://github.com/hemant-ingle/codeforces)                                                                                                                                                                                                            |
+| 📚 **[CSES](https://cses.fi/user/99833)**       | [Problem Set & Solutions](https://github.com/hemant-ingle/cses/blob/main/questions.md)                                                                                                                                                                                         |
 
 ## Interests
 
