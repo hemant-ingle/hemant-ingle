@@ -4,12 +4,12 @@ Building software to understand how it works.
 
 ## Projects
 
-| Project                                                                               | Description                                                                                           |
-| ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| 🌐 **[HTTP Server](https://github.com/hemant-ingle/http-server)**                     | Built from scratch to understand networking, sockets, HTTP protocol, request parsing, and concurrency |
+| Project                                                                                              | Description                                                                                           |
+| ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 🌐 **[HTTP Server](https://github.com/hemant-ingle/http-server)**                                    | Built from scratch to understand networking, sockets, HTTP protocol, request parsing, and concurrency |
 | 🏗️&nbsp;**[Web&nbsp;Service&nbsp;Framework](https://github.com/hemant-ingle/webservice-framework)**  | Lightweight backend framework exploring routing, middleware, dependency injection, and abstractions   |
-| 📦 **[JS Library](https://github.com/hemant-ingle/JS-Library)**                       | Collection of reusable frontend utilities and components                                              |
-| 🎨 **[Drawing Tool](https://github.com/hemant-ingle/drawing-tool)**                   | Canvas-based graphics editor focused on rendering and interaction systems                             |
+| 📦 **[JS Library](https://github.com/hemant-ingle/JS-Library)**                                      | Collection of reusable frontend utilities and components                                              |
+| 🎨 **[Drawing Tool](https://github.com/hemant-ingle/drawing-tool)**                                  | Canvas-based graphics editor focused on rendering and interaction systems                             |
 
 ## Data Structures & Algorithms
 
