@@ -4,8 +4,8 @@ Building software to understand how it works.
 
 ## Projects
 
-| Project                                                                                              | Description                                                                                           |
-| ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Project | Description |
+| --- | --- |
 | 🌐 **[HTTP Server](https://github.com/hemant-ingle/http-server)**                                    | Built from scratch to understand networking, sockets, HTTP protocol, and request parsing              |
 | 🏗️ **[Web Service Framework](https://github.com/hemant-ingle/webservice-framework)**                 | Lightweight backend framework (routing, middleware and  dependency injection)                         |
 | 📦 **[JS Library](https://github.com/hemant-ingle/JS-Library)**                                      | Collection of reusable frontend utilities and components                                              |
@@ -13,11 +13,11 @@ Building software to understand how it works.
 
 ## Data Structures & Algorithms
 
-| Platform        | Tracks                                                                                                                                                                                                                                                                |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Platform | Tracks |
+| --- | --- |
 | 🧩 **[LeetCode](https://leetcode.com/u/hemant_ingle/)**   | [Random Questions](https://github.com/hemant-ingle/leetcode/blob/main/Random/questions.md) • [LeetCode 75](https://github.com/hemant-ingle/leetcode/blob/main/Leetcode%2075/questions.md) • [SQL 50](https://github.com/hemant-ingle/leetcode/blob/main/SQL%2050/questions.md) |
 | ⚔️ **[Codeforces](https://codeforces.com/profile/hemant_ingle)** | [Questions & Solutions](https://github.com/hemant-ingle/codeforces)                                                                                                                                                                                                            |
-| 🏯 AtCoder | [Educational DP Contest](https://github.com/hemant-ingle/atcoder) |
+| 🏯 AtCoder | [Educational DP Contest](https://github.com/hemant-ingle/atcoder/blob/main/educational_dp_contest/questions.md) |
 | 📚 **[CSES](https://cses.fi/user/99833)**       | [Problem Set & Solutions](https://github.com/hemant-ingle/cses/blob/main/questions.md)                                                                                                                                                                                         |
 
 ## Interests
