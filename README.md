@@ -1,13 +1,6 @@
-<table width="100%">
-    <tr>
-        <td># Hemant Ingle</td>
-        <td align="right" valign="top">
-            <a href="https://github.com/hemant-ingle/hemant-ingle/raw/main/resume/Hemant_Ingle_Resume.pdf">
-                <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=maildotru&logoColor=white" alt="Resume">
-            </a>
-        </td>
-    </tr>
-</table>
+# Hemant Ingle
+
+[:arrow_down:](https://github.com/hemant-ingle/resume/blob/main/latest/Resume%20-%20Hemant_Ingle.pdf)
 
 Building software to understand how it works.
 
