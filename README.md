@@ -1,12 +1,19 @@
-<span style="float: right !important;">
-  <a href="https://raw.githubusercontent.com/hemant-ingle/resume/refs/heads/main/latest/Resume%20-%20Hemant_Ingle.pdf" title="Download Resume" style="text-decoration: none;">
-    📥
-  </a>
-</span>
+<table width="100%">
+<tr>
+<td>
 
 # Hemant Ingle
 
 Building software to understand how it works.
+
+</td>
+<td align="right" valign="top">
+
+<a href="https://raw.githubusercontent.com/hemant-ingle/resume/refs/heads/main/latest/Resume%20-%20Hemant_Ingle.pdf" title="Download Resume">📥</a>
+
+</td>
+</tr>
+</table>
 
 ## Projects
 
