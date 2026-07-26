@@ -1,4 +1,13 @@
-# Hemant Ingle
+<table width="100%">
+    <tr>
+        <td># Hemant Ingle</td>
+        <td align="right" valign="top">
+            <a href="https://github.com/hemant-ingle/hemant-ingle/raw/main/resume/Hemant_Ingle_Resume.pdf">
+                <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=maildotru&logoColor=white" alt="Resume">
+            </a>
+        </td>
+    </tr>
+</table>
 
 Building software to understand how it works.
 
