@@ -1,6 +1,6 @@
 # Hemant Ingle
 
-[:arrow_down:](https://github.com/hemant-ingle/resume/blob/main/latest/Resume%20-%20Hemant_Ingle.pdf)
+[:arrow_down:](https://raw.githubusercontent.com/hemant-ingle/resume/refs/heads/main/latest/Resume%20-%20Hemant_Ingle.pdf)
 
 Building software to understand how it works.
 
