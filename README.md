@@ -22,7 +22,7 @@ Building software to understand how it works.
 
 ## Interests
 
-System Design • Data Structures & Algorithms • Design Patterns • Compiler Design • Operating Systems • Framework Design • Cloud Computing • Machine Learning
+`System Design` • `Data Structures & Algorithms` • `Design Patterns` • `Compiler Design` • `Operating Systems` • `Framework Design` • `Cloud Computing` • `Machine Learning`
 
 ---
 
