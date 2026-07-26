@@ -1,4 +1,4 @@
-# Hemant Ingle &nbsp; <a href="https://raw.githubusercontent.com/hemant-ingle/resume/refs/heads/main/latest/Resume%20-%20Hemant_Ingle.pdf" title="Download Resume">⬇️</a>
+# Hemant Ingle [⬇️](https://raw.githubusercontent.com/hemant-ingle/resume/refs/heads/main/latest/Resume%20-%20Hemant_Ingle.pdf)
 
 Building software to understand how it works.
 
