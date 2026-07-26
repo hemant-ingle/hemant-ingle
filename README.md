@@ -1,6 +1,10 @@
-# Hemant Ingle
+<p align="right">
+  <a href="https://raw.githubusercontent.com/hemant-ingle/resume/refs/heads/main/latest/Resume%20-%20Hemant_Ingle.pdf" title="Download Resume">
+    📥 Download Resume
+  </a>
+</p>
 
-[:arrow_down:](https://raw.githubusercontent.com/hemant-ingle/resume/refs/heads/main/latest/Resume%20-%20Hemant_Ingle.pdf)
+# Hemant Ingle
 
 Building software to understand how it works.
 
