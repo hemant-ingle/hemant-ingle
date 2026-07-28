@@ -16,9 +16,9 @@ Building software to understand how it works.
 | Platform | Tracks |
 | --- | --- |
 | 🧩 **[LeetCode](https://leetcode.com/u/hemant_ingle/)**   | [Random Questions](https://github.com/hemant-ingle/leetcode/blob/main/Random/questions.md) • [Recursion](https://github.com/hemant-ingle/leetcode/blob/main/Recursion/questions.md) • [LeetCode 75](https://github.com/hemant-ingle/leetcode/blob/main/Leetcode%2075/questions.md) • [SQL 50](https://github.com/hemant-ingle/leetcode/blob/main/SQL%2050/questions.md) |
-| ⚔️ **[Codeforces](https://codeforces.com/profile/hemant_ingle)** | [Questions & Solutions](https://github.com/hemant-ingle/codeforces/random/questions.md)                                                                                                                                                                                                            |
+| ⚔️ **[Codeforces](https://codeforces.com/profile/hemant_ingle)** | [Questions & Solutions](https://github.com/hemant-ingle/codeforces/blob/main/random/questions.md) |
 | 🏯 AtCoder | [Educational DP Contest](https://github.com/hemant-ingle/atcoder/blob/main/educational_dp_contest/questions.md) |
-| 📚 **[CSES](https://cses.fi/user/99833)**       | [Problem Set & Solutions](https://github.com/hemant-ingle/cses/blob/main/questions.md)                                                                                                                                                                                         |
+| 📚 **[CSES](https://cses.fi/user/99833)** | [Problem Set & Solutions](https://github.com/hemant-ingle/cses/blob/main/questions.md)                                                                                                                                                                                         |
 
 ## Interests
 
